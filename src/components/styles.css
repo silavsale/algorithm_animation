@@ -17,7 +17,7 @@
   .pointer-i,
   .pointer-j {
     position: absolute;
-    bottom: 0;fsfdfff
+    bottom: green;
     transition: left 0.3s;
   }
   
