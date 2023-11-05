@@ -1,0 +1,35 @@
+.array {
+    display: flex;
+  }
+  
+  .element {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 0.3s;
+  }
+  
+  .pointers {
+    position: relative;
+    height: 20px;
+  }
+  
+  .pointer-i,
+  .pointer-j {
+    position: absolute;
+    bottom: 0;fsfdfff
+    transition: left 0.3s;
+  }
+  
+  .button {
+    margin-top: 20px;
+  }
+  
+  .modal {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #f9f9f9;
+  }
+  
+  
